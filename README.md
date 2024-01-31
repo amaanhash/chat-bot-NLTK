@@ -1,1 +1,1 @@
-# chat-bot-NLTK
+# Stoic ChatBot using NLTK
